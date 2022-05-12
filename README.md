@@ -1,6 +1,6 @@
 ###  Hi, I'am Yaslly! 
 
-#### Graduating in Computer Science at the Federal Institute of Education, Science and Technology of Ceará (IFCE), Python is my first language. I also enjoy programming in Python because they challenge me more. I love it when I can finally solve a difficult problem.
+#### Undergraduating in Computer Science at the Federal Institute of Education, Science and Technology of Ceará (IFCE), Python is my first language. I also enjoy programming in Python because they challenge me more. I love it when I can finally solve a difficult problem.
 >*Fast learner and eager to explore new technologies.*
 
 ##### MORE ABOUT ME
